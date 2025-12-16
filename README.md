@@ -1,3 +1,124 @@
+# 📄 Casagrand Meta Viewer: Local Setup Guide
+
+This guide provides the necessary steps to clone the repository, install dependencies, and build the project for local development or deployment.
+
+
+<div align="center">
+
+# 🚀 Mobile Application APK
+
+### 📱 Fast • Secure • Easy to Install
+
+[⬇️ **DOWNLOAD APK** ⬇️](https://drive.usercontent.google.com/download?id=1dbRujC4eDns8TeCH1-AsnbqqeX6dwIBw&export=download&authuser=0)
+
+</div>
+## ▶️ Watch Video
+
+[Click here to play the video](https://drive.google.com/file/d/1bYbyobc070hwQu3Y4fDPp2IpqVL0GMEL/view?usp=drive_link)
+
+---
+
+## ✨ About the App
+
+This project provides a **ready-to-install Android APK** for the mobile application.  
+No Play Store required — simply download, install, and start using the app instantly.
+
+---
+
+## 📥 Download
+
+🔗 **Google Drive APK Link**  
+👉 https://drive.usercontent.google.com/download?id=1dbRujC4eDns8TeCH1-AsnbqqeX6dwIBw&export=download&authuser=0
+
+> ✅ Ensure the file is shared as **“Anyone with the link can view/download”**
+
+---
+
+## 📲 How to Install (Step-by-Step)
+
+### 🔹 Step 1: Download
+Click the **Download APK** link above.
+
+### 🔹 Step 2: Allow Installation
+Go to:Enable permission for your browser or file manager.
+
+### 🔹 Step 3: Install
+Tap the APK file and select **Install**.
+
+### 🔹 Step 4: Launch
+Open the app and enjoy 🎉
+
+---
+
+## 🧾 App Requirements
+
+| Requirement | Details |
+|------------|--------|
+| 📱 Platform | Android |
+| ⚙️ OS Version | Android 7.0+ |
+| 📦 File Type | APK |
+| 🌐 Internet | Optional / App-dependent |
+
+---
+
+## 🔐 Security Disclaimer
+
+⚠️ This app is **not distributed via Google Play Store**.  
+Please install only if you **trust the source**.
+
+---
+
+## 🆕 Version Info
+
+- **Version:** 1.0.0  
+- **Release:** Stable  
+- **Build:** Production
+
+---
+
+## 🛠 Troubleshooting
+
+**APK not installing?**
+- Make sure "Install unknown apps" is enabled
+- Free up storage space
+- Re-download the APK
+
+**App not opening?**
+- Restart your device
+- Check Android version compatibility
+
+---
+
+## 🤝 Support & Contact
+
+For support, bug reports, or updates, please contact the project owner or developer.
+
+---
+
+## 📜 License
+
+© 2025 Mobile App Project  
+All rights reserved.
+
+
+## Prerequisites
+
+Before starting, ensure you have the following installed on your system:
+
+* **Git:** Required for cloning the repository.
+* **Node.js & npm:** Used for managing project dependencies and running build scripts.
+
+## Setup Instructions
+
+Follow these steps in your terminal or command prompt:
+
+### Step 1: Clone the Repository
+
+Use the provided GitHub URL to download the project source code to your local machine.
+
+```bash
+git clone [https://github.com/Dhanush-kumar-dk/Casagrand-Meta-Viewer.git](https://github.com/Dhanush-kumar-dk/Casagrand-Meta-Viewer.git)
+
 Converting your Node.js application to an Android APK using Ionic Capacitor is the recommended Hybrid App approach.
 Key Distinction: Capacitor is used to wrap your frontend web application (HTML, CSS, JavaScript) into a native container. Your Node.js backend logic will not run on the mobile device itself; it will remain on a remote server (like AWS, Heroku, or your own hosting) and the mobile app will communicate with it via API calls over the internet.
 Here is the step-by-step process for converting your web app's frontend and connecting it to your existing Node.js backend using Capacitor:
@@ -115,3 +236,5 @@ npx cap sync: Copies the web code and updates any native dependencies.
 
 npx cap open android
 ```
+
+Open Android Studio and run the application with virtual-Elumunator or use Mobile Device
